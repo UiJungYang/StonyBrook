@@ -1,4 +1,4 @@
-# AI & Design (Yunsei Univsersity Soeul) Final Project
+# AI & Design (Yonsei University Seoul) Final Project
 Hanbok VS Kimono Image Recognition
 ![plan](https://github.com/UiJungYang/StonyBrook/blob/main/AI&Design_FinalProject/Final%20Project%20Plan_%20Ui%20Jung%20Yang.png?raw=true)
 
